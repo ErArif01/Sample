@@ -1,7 +1,7 @@
 // Replace 'YOUR_GITHUB_USERNAME' and 'YOUR_API_TOKEN' with your GitHub username and API token.
 const apiUrl = 'https://api.github.com/users/Amreshdhiman001/repos';
 const headers = {
-    Authorization: 'Bearer YOUR_API_TOKEN',
+    Authorization: 'Bearer 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',
 };
 
 // Fetch GitHub data
